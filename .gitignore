@@ -1,0 +1,13 @@
+build/
+debug/
+dist/
+python_helper/
+queuelogs/
+private/
+
+*.log
+*.mk
+*.properties
+*.inx
+*.yml
+*.zip
