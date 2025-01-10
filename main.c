@@ -350,7 +350,7 @@ void main(void)
 					pos_index++;
 				}
 
-				time_bar = time_bar + 1;
+				time_bar = TIME_BAR_MAX + 1;
 			}
 
 			// On affiche le nouveau curseur
